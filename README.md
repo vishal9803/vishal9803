@@ -8,10 +8,10 @@
   <a href="mailto:vishaldhiman3524@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/gagan-yadav-85a472261/" target="_blank">
+  <a href="https://www.linkedin.com/in/vishal-dhiman-166990173/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/Gagan46?hr_r=1" target="_blank">
+  <a href="https://www.hackerrank.com/profile/vishaldhiman3524" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="https://www.instagram.com/vlkd_9424/" target="_blank">
