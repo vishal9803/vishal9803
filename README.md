@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as Freelancer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time i solve coding problems</p>
+<p align="left">🔭 I’r<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time i solve coding problems</p>
 
 ###
 
